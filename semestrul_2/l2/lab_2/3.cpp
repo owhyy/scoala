@@ -11,7 +11,6 @@ int main()
     int t;
     cin >> t;
     for (auto i = t; i < a.size(); i++)
-    
     {
         for (auto j = i + 1; j < a.size(); j++)
         {
